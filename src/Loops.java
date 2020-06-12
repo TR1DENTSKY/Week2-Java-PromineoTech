@@ -37,8 +37,6 @@ public class Loops {
                 } else {
                     System.out.println(i);
                 }
-
-            }
         }
     } // Main
 } // Class
