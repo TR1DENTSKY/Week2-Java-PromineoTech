@@ -31,7 +31,7 @@ public class Loops {
             } else if (i % 5 == 0) { // else if statement, printing "World" on number divisible by 5 instead of the number
                 System.out.println("World");
 
-                if (i % 3 == 0 && i % 5 == 0) { // else if statement, printing "Hello World" on number divisible by both 3 & 5
+            } else if (i % 3 == 0 && i % 5 == 0) { // else if statement, printing "Hello World" on number divisible by both 3 & 5
                     System.out.println("Hello World");
 
                 } else {
