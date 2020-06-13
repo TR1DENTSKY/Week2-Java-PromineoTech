@@ -23,7 +23,6 @@ public class Loops {
         }
         // For loop that prints every number 0 - 100
         for (int i = 0; i <= 100; i ++) {
-            System.out.println(i);
 
             if (i % 3 == 0) { // if statement, printing "World" on number divisible by 3 instead of the number
                 System.out.println("Hello");
