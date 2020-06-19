@@ -1,4 +1,4 @@
-Coding Assignment:
+Coding Steps:
 
 1.	In Eclipse, create the following Boolean variables and choose what values they hold:
 
